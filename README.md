@@ -1,2 +1,2 @@
 # kxreader
-read your favorit books in the terminal whet
+kxreader allows you to read your favorite books in your terminal.
