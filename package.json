@@ -2,6 +2,7 @@
   "name": "kxreader",
   "version": "1.0.0",
   "description": "kxreader allows you to read your books inside your terminal, it supports vim keybindings to make it easier for the users to naviage smoothly",
+  "type": "module",
   "main": "bin/index.js",
   "bin": {
     "kxreader": "./bin/index.js"
