@@ -1,4 +1,8 @@
 {
+  "bin": {
+    "my-node-cli": "./index.js"
+  },
+  "type": "module",
   "name": "kxreader",
   "version": "1.0.0",
   "description": "a cli tool which allows you to read books",
@@ -16,8 +20,5 @@
     "reader"
   ],
   "author": "krupt3x",
-  "license": "MIT",
-  "dependencies": {
-    "commander": "^12.1.0"
-  }
+  "license": "MIT"
 }
